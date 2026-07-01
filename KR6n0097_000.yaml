@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6n0097/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大乘百法明門論解
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T44/T44n1836.xml
+    old_id: T44n1836
+hash: sha256:20e626c94d5c0eb4a1623f973be684b372bd1bacec4f31fc83ae9729c438f9a6
